@@ -241,8 +241,11 @@ Unless the repository owner adds a license, assume that reuse, redistribution, a
 📬 Contact & Business Inquiries
 King Fish — Seafood Processing & Global Export
 📍 Egypt 🇪🇬
+Designed & Developed by NileTrace Phase
 
+The King Fish corporate website was designed and developed by NileTrace Phase, a software development company.
 For business inquiries, export partnerships, and quotation requests, use the company's verified official contact channels once they have been added to the website.
+
 <div align="center">🐟 KING FISH
   Quality · Freshness · Trust · Global Reach
 
